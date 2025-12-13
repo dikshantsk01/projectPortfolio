@@ -17,3 +17,7 @@ It showcases my projects, skills, and contact information in a clean and respons
 - Sections for About, Projects, Skills, and Contact  
 
 ## 📁 Project Structure
+ projectPortfolio/
+│── index.html
+│── style.css
+│── README.md
