@@ -1,2 +1,19 @@
-# projectPortfolio
-A personal portfolio website built from scratch using HTML and CSS, highlighting my frontend learning journey, projects, and skills. Continuously improving as I learn new technologies.
+# Personal Portfolio Website
+
+This is my personal portfolio website built using **HTML and CSS**.  
+It showcases my projects, skills, and contact information in a clean and responsive layout.
+
+## 🔗 Live Demo
+(Will be added after deployment)
+
+## 🛠️ Tech Stack
+- HTML5  
+- CSS3  
+
+## ✨ Features
+- Responsive design  
+- Smooth scrolling navigation  
+- Clean and minimal UI  
+- Sections for About, Projects, Skills, and Contact  
+
+## 📁 Project Structure
