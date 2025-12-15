@@ -4,7 +4,8 @@ This is my personal portfolio website built using **HTML and CSS**.
 It showcases my projects, skills, and contact information in a clean and responsive layout.
 
 ## 🔗 Live Demo
-(Will be added after deployment)
+https://dikshantsk01.github.io/projectPortfolio/
+(Still in Devlopment & Will be added after deployment)
 
 ## 🛠️ Tech Stack
 - HTML5  
