@@ -89,6 +89,27 @@ section {
     transform: translateY(-3px);
 }
 
+/* Hero Section Buttons */
+.hero-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.hero-buttons .btn {
+    padding: 12px 25px;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: all 0.3s;
+}
+
+.hero-buttons .btn:hover {
+    background-color: #00bcd4;
+    transform: translateY(-3px);
+}
+
+
 /* Sections */
 section {
     padding: 60px 20px;
