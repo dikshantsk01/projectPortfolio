@@ -10,6 +10,7 @@ https://dikshantsk01.github.io/projectPortfolio/
 ## 🛠️ Tech Stack
 - HTML5  
 - CSS3  
+- (JS is still in development & will be added gradually)
 
 ## ✨ Features
 - Responsive design  
